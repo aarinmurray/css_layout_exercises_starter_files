@@ -1,1 +1,65 @@
+nav	{
+	position: relative;
+	height: 100px;
+	background-color: gray;
+	padding-right: 60px;
+	padding-left: 200px;
+}
+
+a:link {
+	color:black;
+}
+
+a:visited {
+	color:purple;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+    margin-left: 200px;
+    margin-top: 40px;
+    
+}
+
+.img-circle {
+	position: absolute;
+	left: 10px;
+	border-radius: 50%;
+}
+
+main {
+	border: 10px green dotted;
+	width: 600px;
+	height: 300px;
+	margin: auto;
+	margin-top: 100px;
+	position:
+}
+
+.animal-images {
+	position: relative;
+}
+
+.space-cat {
+	height: 200px;
+	width: 200px;
+	position: absolute;
+	right: 430px;
+	top: -70px;
+}
+
+.space-dog {
+	height: 200px;
+	width: 200px;
+	position: absolute;
+	left: 450px;
+	top: 100px;
+}
 
